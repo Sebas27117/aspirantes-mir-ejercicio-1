@@ -9,3 +9,12 @@
 8. git init
 9. git add .
 10. git commit -m "Version inicial"
+
+11. git add .
+    git commit -m "Agrega solución primer ejercicio"
+
+12. git branch -M main
+    git remote add origin https://github.com/Sebas27117/aspirantes-mir-ejercicio-1.git
+    git push origin main
+    git push -u origin main
+
